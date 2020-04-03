@@ -1,0 +1,50 @@
+]0;nata@nata-zenbook:~/Documents/Github/R]7;file://nata-zenbook/home/nata/Documents/Github/R(base) ]0;nata@nata-zenbook: ~/Documents/Github/R[01;32mnata@nata-zenbook[00m:[01;34m~/Documents/Github/R[00m$ hek[Klp
+GNU bash, version 4.4.19(1)-release (x86_64-pc-linux-gnu)
+These shell commands are defined internally.  Type `help' to see this list.
+Type `help name' to find out more about the function `name'.
+Use `info bash' to find out more about the shell in general.
+Use `man -k' or `info' to find out more about commands not in this list.
+
+A star (*) next to a name means that the command is disabled.
+
+ job_spec [&]                                     history [-c] [-d offset] [n] or history -anrw>
+ (( expression ))                                 if COMMANDS; then COMMANDS; [ elif COMMANDS; >
+ . filename [arguments]                           jobs [-lnprs] [jobspec ...] or jobs -x comman>
+ :                                                kill [-s sigspec | -n signum | -sigspec] pid >
+ [ arg... ]                                       let arg [arg ...]
+ [[ expression ]]                                 local [option] name[=value] ...
+ alias [-p] [name[=value] ... ]                   logout [n]
+ bg [job_spec ...]                                mapfile [-d delim] [-n count] [-O origin] [-s>
+ bind [-lpsvPSVX] [-m keymap] [-f filename] [-q>  popd [-n] [+N | -N]
+ break [n]                                        printf [-v var] format [arguments]
+ builtin [shell-builtin [arg ...]]                pushd [-n] [+N | -N | dir]
+ caller [expr]                                    pwd [-LP]
+ case WORD in [PATTERN [| PATTERN]...) COMMANDS>  read [-ers] [-a array] [-d delim] [-i text] [>
+ cd [-L|[-P [-e]] [-@]] [dir]                     readarray [-n count] [-O origin] [-s count] [>
+ command [-pVv] command [arg ...]                 readonly [-aAf] [name[=value] ...] or readonl>
+ compgen [-abcdefgjksuv] [-o option] [-A action>  return [n]
+ complete [-abcdefgjksuv] [-pr] [-DE] [-o optio>  select NAME [in WORDS ... ;] do COMMANDS; do>
+ compopt [-o|+o option] [-DE] [name ...]          set [-abefhkmnptuvxBCHP] [-o option-name] [-->
+ continue [n]                                     shift [n]
+ coproc [NAME] command [redirections]             shopt [-pqsu] [-o] [optname ...]
+ declare [-aAfFgilnrtux] [-p] [name[=value] ...>  source filename [arguments]
+ dirs [-clpv] [+N] [-N]                           suspend [-f]
+ disown [-h] [-ar] [jobspec ... | pid ...]        test [expr]
+ echo [-neE] [arg ...]                            time [-p] pipeline
+ enable [-a] [-dnps] [-f filename] [name ...]     times
+ eval [arg ...]                                   trap [-lp] [[arg] signal_spec ...]
+ exec [-cl] [-a name] [command [arguments ...]]>  true
+ exit [n]                                         type [-afptP] name [name ...]
+ export [-fn] [name[=value] ...] or export -p     typeset [-aAfFgilnrtux] [-p] name[=value] ...
+ false                                            ulimit [-SHabcdefiklmnpqrstuvxPT] [limit]
+ fc [-e ename] [-lnr] [first] [last] or fc -s [>  umask [-p] [-S] [mode]
+ fg [job_spec]                                    unalias [-a] name [name ...]
+ for NAME [in WORDS ... ] ; do COMMANDS; done     unset [-f] [-v] [-n] [name ...]
+ for (( exp1; exp2; exp3 )); do COMMANDS; done    until COMMANDS; do COMMANDS; done
+ function name { COMMANDS ; } or name () { COMM>  variables - Names and meanings of some shell >
+ getopts optstring name [arg]                     wait [-n] [id ...]
+ hash [-lr] [-p pathname] [-dt] [name ...]        while COMMANDS; do COMMANDS; done
+ help [-dms] [pattern ...]                        { COMMANDS ; }
+]0;nata@nata-zenbook:~/Documents/Github/R]7;file://nata-zenbook/home/nata/Documents/Github/R(base) ]0;nata@nata-zenbook: ~/Documents/Github/R[01;32mnata@nata-zenbook[00m:[01;34m~/Documents/Github/R[00m$ man add
+No manual entry for add
+]0;nata@nata-zenbook:~/Documents/Github/R]7;file://nata-zenbook/home/nata/Documents/Github/R(base) ]0;nata@nata-zenbook: ~/Documents/Github/R[01;32mnata@nata-zenbook[00m:[01;34m~/Documents/Github/R[00m$ 
